@@ -40,12 +40,10 @@
 
 
 ## ServerHackCj7 :
-* Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
-* **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
-* Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
-* Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
+* 
+* 
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
+- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 # Instalación :
 
