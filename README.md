@@ -24,18 +24,22 @@
 
 
 ## Menú Principal :
-![16a](https://user-images.githubusercontent.com/81049859/162635576-4314019a-aa7e-42f0-aceb-1d03d13b45eb.png)
+![Screenshot_20220413-200345_Termux](https://user-images.githubusercontent.com/81049859/163290957-2ba8154f-55e1-4eae-9bd0-c520c0bb5441.png)
 
 
-## Checker :
-![16b](https://user-images.githubusercontent.com/81049859/162635593-e83917d0-19d3-4d94-aebd-8b942ae013ff.png)
+## On Listening :
+![Screenshot_20220413-201002_Termux](https://user-images.githubusercontent.com/81049859/163290982-384b50ff-0223-45b5-8dc8-f9f80c8b3ec1.png)
 
 
-## Extrapolador :
-![16c](https://user-images.githubusercontent.com/81049859/162635606-409c0765-6562-4c66-bc34-d9b1cfcfca04.png)
+## Server Hack 1 :
+![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)
 
 
-## CheckCj7 :
+## Server Hack 2 :
+![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)
+
+
+## ServerHackCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
 * **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
 * Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
@@ -51,25 +55,13 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `termux-setup-storage`
+* `git clone https://github.com/Juliocj7/ServerHackCj7`
 
-* `apt update && apt upgrade -y`
-
-* `apt install ncurses-utils -y`
-
-* `pkg install -y git`
-
-* `gem install lolcat`
-
-* `apt install pv`
-
-* `git clone https://github.com/Juliocj7/CheckCj7`
-
-* `cd CheckCj7`
+* `cd ServerHackCj7`
 
 * `chmod +x *`
 
-* `./CheckCj7`
+* `./ServerHackCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
