@@ -32,13 +32,9 @@
 ![Screenshot_20220525-111147_Termux](https://user-images.githubusercontent.com/81049859/170302317-414661bf-6071-49f8-980f-1d3f69c2dc5a.png)
 
 
-
-## Server Hack 1 :
-![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)
-
-
-## Server Hack 2 :
-![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)
+|Server Hack|Server Hack|
+|----------|----------|
+|![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)|![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)|
 
 
 ## ServerHackCj7 :
