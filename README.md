@@ -24,11 +24,13 @@
 
 
 ## Menú Principal :
-![Screenshot_20220413-200345_Termux](https://user-images.githubusercontent.com/81049859/163290957-2ba8154f-55e1-4eae-9bd0-c520c0bb5441.png)
+![Screenshot_20220525-111622_Termux](https://user-images.githubusercontent.com/81049859/170302275-8676e944-d72d-4401-8a0b-2432072e20ff.png)
+
 
 
 ## On Listening :
-![Screenshot_20220413-201002_Termux](https://user-images.githubusercontent.com/81049859/163290982-384b50ff-0223-45b5-8dc8-f9f80c8b3ec1.png)
+![Screenshot_20220525-111147_Termux](https://user-images.githubusercontent.com/81049859/170302317-414661bf-6071-49f8-980f-1d3f69c2dc5a.png)
+
 
 
 ## Server Hack 1 :
