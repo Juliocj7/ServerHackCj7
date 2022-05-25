@@ -40,8 +40,8 @@
 
 ## ServerHackCj7 :
 * La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
-* **Acceso libre** al directorio Home, a la memoria interna y a la memoria externa.
-* **Acceso total** de la raíz (si es usuario root).
+* **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
+* **Acceso total** de la raíz (si la víctima es un usuario root).
 * Descarga **archivos y directorios completos** de la víctima de una manera rápida, fácil y sencilla.
 * Si el ataque sigue su curso se logrará capturar también las **credenciales** de FACEBOOK.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
