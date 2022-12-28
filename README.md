@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220525-173950_Termux](https://user-images.githubusercontent.com/81049859/170373228-da0e88c6-e7ed-48fe-b095-28a7c9c1977c.png)
+![Screenshot_20221228-183451_Termux](https://user-images.githubusercontent.com/81049859/209881257-85ec6545-ccbd-4682-a906-72cd750f5e73.png)
 
 ## On Listening :
 ![Screenshot_20220525-122205_Termux](https://user-images.githubusercontent.com/81049859/170312295-fa8d674d-8789-4094-ac8f-e3496d297212.png)
