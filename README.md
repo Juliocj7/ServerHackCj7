@@ -23,10 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-183451_Termux](https://user-images.githubusercontent.com/81049859/209881257-85ec6545-ccbd-4682-a906-72cd750f5e73.png)
+![1000328597](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/224ef8b5-5c39-434f-a8fc-e3882f407a6d)
 
 ## On Listening :
-![Screenshot_20220525-122205_Termux](https://user-images.githubusercontent.com/81049859/170312295-fa8d674d-8789-4094-ac8f-e3496d297212.png)
+![1000328598](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/e5444b73-480c-4b69-8387-800868fb0f7b)
 
 |Server Hack|Server Hack|
 |----------|----------|
