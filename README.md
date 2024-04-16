@@ -58,7 +58,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
   </details>
 </div>
 
-## On Listening :
+## Listening :
 ![1000328598](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/e5444b73-480c-4b69-8387-800868fb0f7b)
 
 |Server Hack|Server Hack|
@@ -78,17 +78,18 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/ServerHackCj7`
-
-* `cd ServerHackCj7`
-
-* `chmod +x *`
-
-* `./ServerHackCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/ServerHackCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd ServerHackCj7 && chmod +x * && ./ServerHackCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
