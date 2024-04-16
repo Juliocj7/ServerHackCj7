@@ -67,7 +67,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 
 ## ServerHackCj7 :
 * La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
-* **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
+* **Acceso libre** al directorio HOME, a la memoria interna y también a la memoria externa (si la tiene insertada).
 * **Acceso total** de la raíz (si la víctima es un usuario root).
 * Descarga **archivos y directorios completos** de la víctima de una manera rápida, fácil y sencilla.
 * Si el ataque sigue su curso se logrará capturar también las **credenciales** de FACEBOOK.
