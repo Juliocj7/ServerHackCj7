@@ -84,7 +84,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell
