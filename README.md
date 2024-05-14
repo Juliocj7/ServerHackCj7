@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000328597](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/224ef8b5-5c39-434f-a8fc-e3882f407a6d)
+![1000344597](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/cfb09b58-7c45-4a0e-b6a0-45c48fba2ce1)
 
 <div align="justify">
   <details align="center">
@@ -59,7 +59,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 </div>
 
 ## Listening :
-![1000328598](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/e5444b73-480c-4b69-8387-800868fb0f7b)
+![1000344610](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/113dfb47-3924-4425-afe9-91b2c47ab1ec)
 
 |Server Hack|Server Hack|
 |----------|----------|
