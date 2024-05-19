@@ -59,7 +59,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 </div>
 
 ## Listening :
-![1000344610](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/113dfb47-3924-4425-afe9-91b2c47ab1ec)
+![1000347906](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/a81b5b6f-ee0e-47e5-83f2-d2ebfb333910)
 
 |hacked|system|
 |:----:|:----:|
