@@ -66,7 +66,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 |![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)|![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)|
 
 ## ServerHackCj7 :
-* La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
+* La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por una conexión TCP.
 * **Acceso libre** al directorio HOME, a la memoria interna y también a la memoria externa (si la tiene insertada).
 * **Acceso total** de la raíz (si la víctima es un usuario root).
 * Descarga **archivos y directorios completos** de la víctima de una manera rápida, fácil y sencilla.
