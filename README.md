@@ -60,7 +60,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de ServerH
 ## Listening :
 ![1000351271](https://github.com/Juliocj7/ServerHackCj7/assets/81049859/f64ab402-ddde-43df-a492-97710e384571)
 
-|hacked|system|
+|system|hacked|
 |:----:|:----:|
 |![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)|![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)|
 
